@@ -12,7 +12,8 @@
 
 Lets talk:  https://twitter.com/danielafunesv   📭 danielafunes1970@gmail.com
 
-![Code typing-bro (2)](https://user-images.githubusercontent.com/72564646/132222753-fcc0169a-2b96-4d06-b40e-26b07f18e291.png)
+![Code typing-bro (3)](https://user-images.githubusercontent.com/72564646/132223104-69fe4317-d6e5-4dbe-b455-f4330a58af9b.png)
+
 
 
 
