@@ -15,9 +15,10 @@ I have great communication skills and, due to my experience in the educational a
 
 
 
-![Code typing-bro (3)](https://user-images.githubusercontent.com/72564646/132223104-69fe4317-d6e5-4dbe-b455-f4330a58af9b.png)
 
 
 
+
+![main](https://user-images.githubusercontent.com/72564646/137968027-0f254475-7a59-4118-83f4-f991108ef43a.png)
 
 
