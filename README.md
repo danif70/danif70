@@ -10,7 +10,7 @@
  
  Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
 
-Lets talk:  https://twitter.com/danielafunesv   📭 danielafunes1970@gmail.com
+
 
 ![Code typing-bro (3)](https://user-images.githubusercontent.com/72564646/132223104-69fe4317-d6e5-4dbe-b455-f4330a58af9b.png)
 
