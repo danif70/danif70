@@ -14,12 +14,16 @@ I have great communication skills and, due to my experience in the educational a
  Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
 
 
+<div>
+<p style = 'text-align:center;'>
+<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width="300px">
+</p>
+</div>
 
 
 
 
 
 
-![main - copia-modified](https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png)
 
 
