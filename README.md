@@ -19,6 +19,7 @@ I have great communication skills and, due to my experience in the educational a
 
 
 
-![main](https://user-images.githubusercontent.com/72564646/137968027-0f254475-7a59-4118-83f4-f991108ef43a.png)
+
+![main - copia-modified](https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png)
 
 
