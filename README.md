@@ -16,7 +16,7 @@ I have great communication skills and, due to my experience in the educational a
 
 
 <p style = 'text-align:center;'>
-<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width="300px">
+<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png">
 </p>
 
 
