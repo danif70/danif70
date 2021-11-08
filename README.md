@@ -1,4 +1,4 @@
-<img src= "https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+
 
 #### Hi! 👋 Hello! I´m Daniela, a Front-End Developer passionate about Education and self-learning. 
 
@@ -16,7 +16,7 @@ I have great communication skills and, due to my experience in the educational a
 
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width = "50%">
+<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width = "40%">
 </p>
 
 
