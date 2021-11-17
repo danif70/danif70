@@ -14,7 +14,7 @@ I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.j
 
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width = 40%>
+<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width = 400%>
 </p>
 
 
