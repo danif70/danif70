@@ -1,6 +1,6 @@
 
 
-<h2> Hi! 👋 Hello! I´m Daniela, a Front-End Developer passionate about Education and self-learning. </h2>
+<h2> Hi! 👋 Hello! I´m Daniela, a Front-End Developer, passionate about Education and self-learning. </h2>
 <img align='right' src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png"  width="230">
 I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.js.  👩🏻‍💻.
  
