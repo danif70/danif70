@@ -12,7 +12,8 @@ I can say that my first love was Python but now I'm in a stable and healthy rela
 Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
 
 
-
+<br>
+<br>
 
 
 
