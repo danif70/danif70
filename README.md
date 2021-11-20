@@ -23,7 +23,7 @@ Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a dog
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=orange&right_color=yellow&left_text=Hello%20Visitors)
 
-
+<a href="https://www.linkedin.com/in/danielafunesv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 
