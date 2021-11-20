@@ -26,7 +26,7 @@ I can say that my first love was Python but now I'm in a stable and healthy rela
 Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
 <br/>
 
-<a align="center" href="https://github.com/danif70"><img src="https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave" /></a>
+<a href="https://github.com/danif70"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave" /></a>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/danielafunesv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
