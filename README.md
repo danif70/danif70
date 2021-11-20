@@ -20,7 +20,7 @@ I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.j
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danif70)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
