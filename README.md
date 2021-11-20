@@ -15,7 +15,7 @@ I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.j
 
 
 
-</p>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=darkpink&right_color=yellow&left_text=Hello%20Visitors)
 
