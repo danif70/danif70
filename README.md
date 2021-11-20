@@ -17,9 +17,10 @@ I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.j
 <img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width = 20%>
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=pink&right_color=yellow&left_text=Hello%20Visitors)
 
-
+<br>
+<br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
