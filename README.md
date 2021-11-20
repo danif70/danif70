@@ -1,6 +1,6 @@
 
 
-#### Hi! 👋 Hello! I´m Daniela, a Front-End Developer passionate about Education and self-learning. 
+<h2> Hi! 👋 Hello! I´m Daniela, a Front-End Developer passionate about Education and self-learning. 
 
 I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.js.  👩🏻‍💻.
  
@@ -14,7 +14,7 @@ I know JavaScript, React, HTML y CSS. I also have knowledge of Python and Node.j
 
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png" width = 20%>
+<img align='right' src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png"  width="230">
 </p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=darkpink&right_color=yellow&left_text=Hello%20Visitors)
