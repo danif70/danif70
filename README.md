@@ -21,7 +21,7 @@ Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a dog
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=darkpink&right_color=yellow&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=orange&right_color=yellow&left_text=Hello%20Visitors)
 
 
 
