@@ -24,7 +24,7 @@ Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a dog
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=orange&right_color=yellow&left_text=Hello%20Visitors)
 
 <a href="https://www.linkedin.com/in/danielafunesv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:danielafunesv@gmail.com)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
