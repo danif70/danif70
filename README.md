@@ -1,7 +1,7 @@
 
 <img align='right' src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png"  width="250">
 
-## Hi! 👋 Hello! I´m Daniela
+##  👋 Hi! I´m Daniela
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -15,15 +15,15 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <br>
 <br>
-I'm a Front-End Developer, passionate about Education and self-learning 👩‍💻 <br>
+👩‍💻 I'm a Front-End Developer, passionate about Education and self-learning 💻 <br>
 
-It all started in 2020 (Pandemic, remember 😬?). At first, I took many courses at **Platzi** and, while I was learning a lot of logic and programming languages, I also became part of a wonderful and supportive community💚. <br>
+🌱 It all started in 2020 (Pandemic, remember 😷?). At first, I took many courses at **Platzi** and, while I was learning a lot of logic and programming languages, I also became part of a wonderful and supportive community💚. <br>
 
-Now, I'm in a Web Development Bootcamp at **Laboratoria** where I share with awesome women who, like me, want to be better and productive professionals💛.<br>
+📚 Now, I'm in a Web Development Bootcamp at **Laboratoria** where I share with awesome women who, like me, want to be better and productive professionals💛.<br>
  
-I can say that my first love was Python but now I'm in a stable and healthy relationship with JavaScript/HTML/CSS 😁 <br>
+☝ I can say that my first love was Python but now I'm in a stable and healthy relationship with JavaScript/HTML/CSS 😁 <br>
  
-Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
+💑 Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
 <br/>
 
 <a href="https://github.com/danif70"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave" /></a>
