@@ -36,4 +36,4 @@
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=deeppink&right_color=purple&left_text=Hello%20Visitors)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=deeppink&right_color=purple&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=deeppink&right_color=purple&left_text=HelloVisitors)
