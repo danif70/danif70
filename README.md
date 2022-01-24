@@ -34,6 +34,6 @@
 <a href="https://twitter.com/danielafunesv"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white"></a>
  </p>
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=deeppink&right_color=purple&left_text=Hello%20Visitors)
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=danif70.visitor-badge&left_color=deeppink&right_color=purple&left_text=HelloVisitors)
+
+
