@@ -1,5 +1,5 @@
 
-<img align='right' src= "https://user-images.githubusercontent.com/72564646/138130223-357f828d-caf0-4ab8-b966-803125289dcc.png"  width="250">
+
 
 ##  👋 Hi! I´m Daniela
 
