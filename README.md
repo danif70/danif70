@@ -25,7 +25,7 @@ Now I work at Mercado Libre as a frontend developer. <br>
  
 ☝ I can say that my first love was Python but now I'm in a stable and healthy relationship with JavaScript/HTML/CSS 😁 <br>
  
-💑 Did I mention that I have 3 sons and a husband? And a kitty🐱‍👤 and a doggy🐶 too? 😍
+💑 Did I mention that I have 3 sons? And a kitty🐱‍👤 and a doggy🐶 too? 😍
 <br/>
 
 <a href="https://github.com/danif70"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=danif70&show_icons=true&theme=synthwave" /></a>
